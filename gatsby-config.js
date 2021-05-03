@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Kshitij Mudgal`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `kshitij mudgal`,
+      summary: `Welcome to my Digital Garden.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Welcome to my Digital Garden.`,
+    siteUrl: `https://kshitijmudgal.com/`,
     social: {
       twitter: `kylemathews`,
     },

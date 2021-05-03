@@ -1,0 +1,44 @@
+.card {
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 100%;
+    height: 250px;
+    background-image: url("../images/background-roads.svg");
+    background-size: contain  ;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+
+.bannerParagraph,.bannerTitle {
+   text-align: left!important;
+}
+
+.media-icon{
+    width:32px;
+    height:32px;
+    margin-left: 10px;
+}
+
+.media-content{
+    justify-content: left !important;
+    display:flex;
+    margin-top: -25px;
+}
+
+.pageLink{
+    text-decoration: none;
+}
+
+.list-inline{
+    display:inline;
+    list-style:none;
+}
+
+.list-inline-item{
+    display:inline-block;
+}
+
+.container {
+    padding: 2px 16px;
+}
