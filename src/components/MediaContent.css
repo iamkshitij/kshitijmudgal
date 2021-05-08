@@ -1,0 +1,10 @@
+.list-inline{
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.social-media-content{
+    margin-top: -5px;
+    display: flex !important;
+    justify-content: center !important;
+}
