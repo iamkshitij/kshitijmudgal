@@ -1,5 +1,5 @@
 ---
-title: Java Threading!
+title: Java Threads!
 date: "2021-05-02T23:46:37.121Z"
 ---
 <hr/>
